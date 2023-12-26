@@ -1,0 +1,4 @@
+requests~=2.31.0
+XlsxWriter~=3.1.9
+colorama~=0.4.6
+progress~=1.6
